@@ -1,1 +1,2 @@
 nginx:stable-alpine
+jenkins/jenkins:2.454-jdk11
