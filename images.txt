@@ -9,3 +9,9 @@ mysql:8.0.36-debian
 nacos/nacos-server:v2.3.2
 nginx:alpine
 redis:alpine
+node:20.1-alpine3.17
+portainer/portainer-ce:2.19.4
+frolvlad/alpine-glibc
+xuxueli/xxl-job-admin:2.3.0
+registry.cn-hangzhou.aliyuncs.com/rancococ/alpine:3.13.1
+tdengine/tdengine:3.3.0.0
