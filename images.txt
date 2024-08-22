@@ -1,2 +1,11 @@
 nginx:stable-alpine
 jenkins/jenkins:2.454-jdk11
+influxdb:1.8-alpine
+openjdk:11
+mongo:3.4
+mongo:5
+mcr.microsoft.com/mssql/server:2019-latest
+mysql:8.0.36-debian
+nacos/nacos-server:v2.3.2
+nginx:alpine
+redis:alpine
