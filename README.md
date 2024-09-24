@@ -78,3 +78,6 @@ xiaoyaliu/alist
 修改/.github/workflows/docker.yaml文件
 添加 schedule即可定时执行(此处cron使用UTC时区)
 ![](doc/定时执行.png)
+
+
+### 别人的代理  https://gist.github.com/y0ngb1n/7e8f16af3242c7815e7ca2f0833d3ea6
